@@ -1,1 +1,1 @@
-email alert on whatsapp
+get email alert on whatsapp
